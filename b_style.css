@@ -1,3 +1,9 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+
 .jumbotron { 
     background-color: #00e699;
     color: #ffffff;
@@ -10,6 +16,7 @@
     height: 80%;
     opacity: 0.7;
 }
+
 .person:hover {
     border-color: #f1f1f1;
 }
