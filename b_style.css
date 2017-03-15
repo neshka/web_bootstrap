@@ -17,3 +17,9 @@
 .bg-grey {
     background-color: #f6f6f6;
 }
+
+.container-fluid {
+    padding: 60px 70px;
+
+}
+
