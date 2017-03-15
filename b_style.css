@@ -58,3 +58,17 @@ h2 {
     font-family: Montserrat, sans-serif;
 }
 
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #FF1493 !important; /*deep pink */
+   /* background-color: #e6fff7 !important; /*mint*/*/
+}
+
+
+
+
+
+
+
+
+
+
