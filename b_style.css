@@ -4,9 +4,25 @@ body {
     color: #818181;
 }
 
+h1 {
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+h2 {
+    font-size: 25px;
+    line-height: 1em;
+    color: #d3d3d3;
+    font-weight: 200;
+    margin-bottom: 10px;
+}
+
 .jumbotron { 
     background-color: #00e699;
     color: #ffffff;
+
 }
 
 .person {
@@ -28,5 +44,17 @@ body {
 .container-fluid {
     padding: 60px 70px;
 
+}
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #d3d3d3;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
 }
 
