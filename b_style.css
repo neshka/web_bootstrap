@@ -1,5 +1,5 @@
 .jumbotron { 
-    background-color: #87CEFA; /* Blue */
+    background-color: #00e699;
     color: #ffffff;
 }
 
@@ -14,6 +14,6 @@
     border-color: #f1f1f1;
 }
 
-<img src="electro.jpg" class="img-circle person" alt="Random Name">
-<img src="electro.jpg" class="img-circle person" alt="Random Name">
-<img src="electro.jpg" class="img-circle person" alt="Random Name">
+.bg-grey {
+    background-color: #f6f6f6;
+}
